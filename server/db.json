@@ -1,0 +1,42 @@
+[
+    { "id":1,
+      "fortune": "Your life will be happy and peaceful.",
+      "rating": 3
+    },
+    { "id":2,
+      "fortune":"Your first love has never forgotten you.",
+      "rating": 3
+    },
+    { "id":3,
+      "fortune":"Your abilities are unparalleled.",
+      "rating": 3
+    },
+    { "id":4,
+      "fortune":"You will have gold pieces by the bushel.",
+      "rating": 3
+    },
+    { "id":5,
+      "fortune":"You will enjoy good health.",
+      "rating": 3
+    },
+    { "id":6,
+      "fortune":"You will be blessed with longevity.",
+      "rating": 3
+    },
+    { "id":7,
+      "fortune":"Run",
+      "rating": 3
+    },
+    { "id":8,
+      "fortune":"Don't let yesterday take up too much of today",
+      "rating": 3
+    },
+    { "id":9,
+      "fortune":"Never dream of success, work for it",
+      "rating": 3
+    },
+    { "id":10,
+      "fortune":"Love all, trust a few, do wrong to none.",
+      "rating": 3
+    }
+  ]
